@@ -8,4 +8,8 @@ def suma(x, y):
     Returns:
         _type_: descr
     """
-    return x+y 
+    return x+y
+
+
+def resta(x, y):
+    return x - y
