@@ -1,11 +1,11 @@
 def suma(x, y):
-    """_summary_
+    """Esta es una funcion de suma 
 
     Args:
-        x (_type_): _description_
-        y (_type_): _description_
+        x (int): entero par a l;a fuincion
+        y (int): entero para la funcion
 
     Returns:
-        _type_: _description_
+        _type_: descr
     """
     return x+y 
