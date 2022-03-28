@@ -8,6 +8,10 @@ def suma(x, y):
     Returns:
         _type_: descr
     """
+    print(x)
+    print(y)
+    print(x + y)
+    print("dummy print")
     return x+y
 
 
