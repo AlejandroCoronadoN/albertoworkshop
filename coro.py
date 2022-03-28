@@ -18,3 +18,7 @@ def suma(x, y):
     print('felicidades has completado este tutorial')
 
     return x+y 
+
+
+def resta(x, y):
+    return x - y
